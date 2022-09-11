@@ -1,4 +1,4 @@
-# SCSS &
+# SCSS
 
 ## Introdução
 São ferramentas utilizadas para aumentar a produtividade no desenvolvimento scss.
